@@ -1,0 +1,135 @@
+{
+    "products": [
+        {
+          "id": 1,
+          "name": "10*15",
+          "price": 13,
+          "percentage" : 0.25
+        },
+        {
+          "id": 2,
+          "name": "12*15",
+          "price": 59,
+          "percentage" : 0.25         
+        },
+        {
+          "id": 3,
+          "name": "12*18",
+          "price": 63 ,
+          "percentage" : 0.25                  
+        },
+        {
+          "id": 4,
+          "name": "15*20",
+          "price": 80,
+          "percentage" : 0.25          
+         
+        },
+        {
+          "id": 5,
+          "name": "11*17",
+          "price": 22,
+          "percentage" : 0.25         
+         
+        },
+        {
+          "id": 6,
+          "name": "15*0.25",
+          "price": 60 ,
+          "percentage" : 0.25        
+         
+        },
+        {
+          "id": 7,
+          "name": "20*28",
+          "price": 110,
+          "percentage" : 0.25         
+         
+        },
+        {
+          "id": 8,
+          "name": "5 NO",
+          "price": 8 ,
+          "percentage" : 0.25        
+          
+        },
+        {
+          "id": 89,
+          "name": "6 NO",
+          "price": 13.50,
+          "percentage" : 0.25
+        },
+        {
+          "id": 10,
+          "name": "7 NO",
+          "price": 32,
+          "percentage" : 0.25
+        },
+        {
+          "id": 11,
+          "name": "10 NO",
+          "price": 43,
+          "percentage" : 0.25          
+         
+        },
+        {
+          "id": 12,
+          "name": "5 W",
+          "price": 9 ,
+          "percentage" : 0.25         
+        
+        },
+        {
+          "id": 13,
+          "name": "5 Color",
+          "price": 9.5 ,
+          "percentage" : 0.25         
+        
+        },
+        {
+          "id": 14,
+          "name": "6 W",
+          "price": 13,
+          "percentage" : 0.25
+          
+        },
+        {
+          "id": 15,
+          "name": "6 Color",
+          "price": 14,
+          "percentage" : 0.25
+        },
+        {
+          "id": 16,
+          "name": "1 Color",
+          "price": 3,
+          "percentage" : 0.25
+        },
+        {
+          "id": 17,
+          "name": "2 Color",
+          "price": 5,
+          "percentage" : 0.25
+        },
+        {
+          "id": 18,
+          "name": "M Color",
+          "price": 6,
+          "percentage" : 0.25
+        },
+        {
+          "id": 19,
+          "name": "SpecialDesign",
+          "price": 10,
+          "percentage" : 0.25
+        },
+        {
+          "id": 7,
+          "name": "23*36",
+          "price": 128 ,
+          "percentage" : 0.25        
+         
+        }
+       
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "products": [              
+        {
+          "id": 1,
+          "name": "15*20 L 6 ",
+          "price": 14,
+          "Percentage" : 25
+
+        },
+        {
+          "id": 2,
+          "name": "15*20 L 12 ",
+          "price": 22,
+          "Percentage" : 25
+
+        },
+        {
+          "id": 3,
+          "name": "17*27 L 6",
+          "price": 21,
+          "Percentage" : 25
+        },
+        {
+          "id": 4,
+          "name": "17*27 L 12",
+          "price":34,
+          "Percentage" : 25
+        },
+        {
+          "id": 5,
+          "name": "20*30 L 6",
+          "price": 26,
+          "Percentage" : 25
+        },
+        {
+          "id": 6,
+          "name": "20*30 L 12",
+          "price": 43,
+          "Percentage" : 25
+        },
+        {
+          "id": 7,
+          "name": "Single",
+          "price":10.75,
+          "Percentage" : 25
+        },
+        {
+          "id": 8,
+          "name": "Double",
+          "price": 23,
+          "Percentage" : 25
+        },
+        {
+          "id": 9,
+          "name": "Multiple",
+          "price": 43,
+          "Percentage" : 25
+        }
+    ]
+}
