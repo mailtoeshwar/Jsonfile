@@ -3,132 +3,108 @@
         {
           "id": 1,
           "name": "10*15",
-          "price": 13,
-          "percentage" : 0.25
+          "price": 16,
+          "sprice": 16,
+          "percentage" : 0.25,
+          "refid" : 1
         },
         {
           "id": 2,
-          "name": "12*15",
-          "price": 59,
-          "percentage" : 0.25         
-        },
+          "name": "11*17",
+          "price": 26,
+          "sprice": 26,
+          "percentage" : 0.25,
+          "refid" : 2         
+         
+        },        
         {
           "id": 3,
-          "name": "12*18",
-          "price": 63 ,
-          "percentage" : 0.25                  
+          "name": "5 NO",
+          "price": 10 ,
+          "sprice": 9.5,
+          "percentage" : 0.25,
+          "refid" : ""     
+          
         },
         {
           "id": 4,
-          "name": "15*20",
-          "price": 80,
-          "percentage" : 0.25          
-         
+          "name": "6 NO",
+          "price": 14.50,
+          "sprice": 14.50,
+          "percentage" : 0.25,
+          "refid" : ""  
         },
         {
           "id": 5,
-          "name": "11*17",
-          "price": 22,
-          "percentage" : 0.25         
-         
+          "name": "5 W",
+          "price": 11.25 ,
+          "sprice": 11.25,
+          "percentage" : 0.25,
+          "refid" : ""  
+
+        
         },
         {
           "id": 6,
-          "name": "15*0.25",
-          "price": 60 ,
-          "percentage" : 0.25        
-         
+          "name": "5 Color",
+          "price": 9.5 ,
+          "sprice": 13,
+          "percentage" : 0.25 ,
+          "refid" : ""          
+        
         },
         {
           "id": 7,
-          "name": "20*28",
-          "price": 110,
-          "percentage" : 0.25         
-         
+          "name": "6 W",
+          "price": 15,
+          "sprice": 15,
+          "percentage" : 0.25,
+          "refid" : ""  
+          
         },
         {
           "id": 8,
-          "name": "5 NO",
-          "price": 8 ,
-          "percentage" : 0.25        
-          
+          "name": "6 Color",
+          "price": 14,
+          "sprice": 13,
+          "percentage" : 0.25,
+          "refid" : ""  
         },
         {
-          "id": 89,
-          "name": "6 NO",
-          "price": 13.50,
-          "percentage" : 0.25
+          "id": 9,
+          "name": "1 Color",
+          "price": 3,
+          "sprice": 13,
+          "percentage" : 0.25,
+          "refid" : "1"  
         },
         {
           "id": 10,
-          "name": "7 NO",
-          "price": 32,
-          "percentage" : 0.25
+          "name": "2 Color",
+          "price": 5,
+          "sprice": 13,
+          "percentage" : 0.25,
+          "refid" : "2"  
         },
         {
           "id": 11,
-          "name": "10 NO",
-          "price": 43,
-          "percentage" : 0.25          
-         
-        },
-        {
-          "id": 12,
-          "name": "5 W",
-          "price": 9 ,
-          "percentage" : 0.25         
-        
-        },
-        {
-          "id": 13,
-          "name": "5 Color",
-          "price": 9.5 ,
-          "percentage" : 0.25         
-        
-        },
-        {
-          "id": 14,
-          "name": "6 W",
-          "price": 13,
-          "percentage" : 0.25
-          
-        },
-        {
-          "id": 15,
-          "name": "6 Color",
-          "price": 14,
-          "percentage" : 0.25
-        },
-        {
-          "id": 16,
-          "name": "1 Color",
-          "price": 3,
-          "percentage" : 0.25
-        },
-        {
-          "id": 17,
-          "name": "2 Color",
-          "price": 5,
-          "percentage" : 0.25
-        },
-        {
-          "id": 18,
           "name": "M Color",
           "price": 6,
-          "percentage" : 0.25
+          "sprice": 13,
+          "percentage" : 0.25,
+          "refid" : "3"  
         },
         {
-          "id": 19,
-          "name": "SpecialDesign",
-          "price": 10,
-          "percentage" : 0.25
+          "ref" : 1,
+          "100":"25",
+          "200":"21",
+          "300 to 1000":"300"
         },
         {
-          "id": 7,
-          "name": "23*36",
-          "price": 128 ,
-          "percentage" : 0.25        
-         
+          "ref" : 2,
+          "100":"40",
+          "200":"36",
+          "300 to 1000":"33"       
         }
        
     ]
