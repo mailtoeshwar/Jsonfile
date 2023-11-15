@@ -1,136 +1,128 @@
 {
     "products": [
         {
-          "id": 1,
-          "name": "10*15",
-          "price": 16,
-          "sprice": 16,
-          "percentage" : 0.25,
-          "refid" : 1
+            "id": 1,
+            "name": "10*15",
+            "price": 16,
+            "sprice": 16,
+            "percentage": 0.25,
+            "refid": 1
         },
         {
-          "id": 2,
-          "name": "11*17",
-          "price": 26,
-          "sprice": 26,
-          "percentage" : 0.25,
-          "refid" : 2         
-         
-        },        
-        {
-          "id": 3,
-          "name": "5 NO",
-          "price": 10 ,
-          "sprice": 9.5,
-          "percentage" : 0.25,
-          "refid" : ""     
-          
+            "id": 2,
+            "name": "11*17",
+            "price": 26,
+            "sprice": 26,
+            "percentage": 0.25,
+            "refid": 2
         },
         {
-          "id": 4,
-          "name": "6 NO",
-          "price": 14.50,
-          "sprice": 14.50,
-          "percentage" : 0.25,
-          "refid" : ""  
+            "id": 3,
+            "name": "5 NO",
+            "price": 10,
+            "sprice": 9.5,
+            "percentage": 0.25,
+            "refid": ""
         },
         {
-          "id": 5,
-          "name": "5 W",
-          "price": 11.25 ,
-          "sprice": 11.25,
-          "percentage" : 0.25,
-          "refid" : ""  
-
-        
+            "id": 4,
+            "name": "6 NO",
+            "price": 14.5,
+            "sprice": 14.5,
+            "percentage": 0.25,
+            "refid": ""
         },
         {
-          "id": 6,
-          "name": "5 Color",
-          "price": 9.5 ,
-          "sprice": 13,
-          "percentage" : 0.25 ,
-          "refid" : ""          
-        
+            "id": 5,
+            "name": "5 W",
+            "price": 11.25,
+            "sprice": 11.25,
+            "percentage": 0.25,
+            "refid": ""
         },
         {
-          "id": 7,
-          "name": "6 W",
-          "price": 15,
-          "sprice": 15,
-          "percentage" : 0.25,
-          "refid" : ""  
-          
+            "id": 6,
+            "name": "5 Color",
+            "price": 9.5,
+            "sprice": 13,
+            "percentage": 0.25,
+            "refid": ""
         },
         {
-          "id": 8,
-          "name": "6 Color",
-          "price": 14,
-          "sprice": 13,
-          "percentage" : 0.25,
-          "refid" : ""  
+            "id": 7,
+            "name": "6 W",
+            "price": 15,
+            "sprice": 15,
+            "percentage": 0.25,
+            "refid": ""
         },
         {
-          "id": 9,
-          "name": "1 Color",
-          "price": 3,
-          "sprice": 13,
-          "percentage" : 0.25,
-          "refid" : "1"  
+            "id": 8,
+            "name": "6 Color",
+            "price": 14,
+            "sprice": 13,
+            "percentage": 0.25,
+            "refid": ""
         },
         {
-          "id": 10,
-          "name": "2 Color",
-          "price": 5,
-          "sprice": 13,
-          "percentage" : 0.25,
-          "refid" : "2"  
+            "id": 9,
+            "name": "1 Color",
+            "price": 3,
+            "sprice": 13,
+            "percentage": 0.25,
+            "refid": "1"
         },
         {
-          "id": 11,
-          "name": "M Color",
-          "price": 6,
-          "sprice": 13,
-          "percentage" : 0.25,
-          "refid" : "3"  
+            "id": 10,
+            "name": "2 Color",
+            "price": 5,
+            "sprice": 13,
+            "percentage": 0.25,
+            "refid": "2"
         },
         {
-          "ref" : 11,
-          "100":"25",
-          "200":"21",
-          "300 to 1000":"30"
-        },
-		{
-          "ref" : 12,
-          "100":"28",
-          "200":"24",
-          "300 to 1000":"23"
-        },
-		{
-          "ref" : 13,
-          "100":"31",
-          "200":"27",
-          "300 to 1000":"26"
+            "id": 11,
+            "name": "M Color",
+            "price": 6,
+            "sprice": 13,
+            "percentage": 0.25,
+            "refid": "3"
         },
         {
-          "ref" : 21,
-          "100":"40",
-          "200":"36",
-          "300 to 1000":"33"       
+            "100": "25",
+            "200": "21",
+            "ref": 11,
+            "300 to 1000": "30"
         },
-		{
-          "ref" : 22,
-          "100":"43",
-          "200":"39",
-          "300 to 1000":"36"
+        {
+            "100": "28",
+            "200": "24",
+            "ref": 12,
+            "300 to 1000": "23"
         },
-		{
-          "ref" : 23,
-          "100":"51",
-          "200":"47",
-          "300 to 1000":"44" 
-		  }
-
-       
+        {
+            "100": "31",
+            "200": "27",
+            "ref": 13,
+            "300 to 1000": "26"
+        },
+        {
+            "100": "40",
+            "200": "36",
+            "ref": 21,
+            "300 to 1000": "33"
+        },
+        {
+            "100": "43",
+            "200": "39",
+            "ref": 22,
+            "300 to 1000": "36"
+        },
+        {
+            "100": "51",
+            "200": "47",
+            "ref": 23,
+            "300 to 1000": "44"
+        }
     ]
 }
